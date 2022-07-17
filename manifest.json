@@ -1,0 +1,13 @@
+{
+    "name":"Trending Memes",
+    "description": "Get a New Meme Everytime",
+    "version":"1.0",
+    "manifest_version": 3,
+    "action":{
+        "default_popup": "Popup.html",
+        "default_icon": "funny_Meme.png"
+    },
+    "icons":{
+        "128":"funny_Meme.png"
+      }
+}
